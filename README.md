@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bimandas0001
 - 👀 I’m interested in DSA & CP
-- 🌱 I’m currently learning CP
+<!-- 🌱 I’m currently learning CP -->
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me :
 - - 📧 bimandas0001@gmail.com
